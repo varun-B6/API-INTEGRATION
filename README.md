@@ -27,3 +27,4 @@ The software environment utilized is the client-side web browser, i.e., the appl
 It can also be integrated into trip sites, dashboards, or home automation interfaces as a weather widget.Overall, this weather web app illustrates the way to create a dynamic and flexible web interface with merely HTML, CSS, and JavaScript while making use of a free and open public API. It highlights real-world web development capability and can be developed further into more sophisticated projects with more features.
 
 #OUTPUT
+![Image](https://github.com/user-attachments/assets/8ea1bc7e-fcb8-4619-a962-f0eed42cc8b2)
